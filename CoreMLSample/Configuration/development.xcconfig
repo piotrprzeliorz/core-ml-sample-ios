@@ -1,0 +1,14 @@
+//
+//  development.xcconfig
+//  CoreMLSample
+//
+//  Created by Piotr Przeliorz on 14.03.2018.
+//  Copyright © 2018 Piotr Przeliorz. All rights reserved.
+//
+
+#include "Pods/Target Support Files/Pods-CoreMLSample/Pods-CoreMLSample.development.xcconfig"
+
+API_ENDPOINT = pixabay.com/api/
+API_KEY = API_KEY_FROM_PIXABAY
+
+
